@@ -1,0 +1,7 @@
+/* public style */
+
+.home-section
+{
+    background-image: url("cover.webp");
+    background-size: cover;
+}
